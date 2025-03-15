@@ -11,3 +11,5 @@ Rename Diamond Pickaxe Silk for different texture,
 Rename Netherite Pickaxe Silk for different texture,
 
 Some others i made for myself: Watana (Netherite/Diamond Sword), Ciscery (Netherite/Diamond Sword) and Longsword Ciscery (Netherite/Diamond Sword)
+
+https://youtu.be/b9ItKQBUWKQ - Showcase Video (read description)
